@@ -1,5 +1,6 @@
 class ganesh{
 	public static void main(string[] args) {
-	System.out.print.ln("This is the first program here");
+	System.out.println("This is the first program here");
+	System.out.println("Second line in the same program");
 }
 } 
